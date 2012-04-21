@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Glam TwiG</string>
+	
+	<string name="Add_List_Str">zu einer Liste hinzufügen</string>
+	<string name="All_Blank_Space">nur Leerzeichen sind nicht erlaubt</string>
+	<string name="Update_List_Public_Header_Description">jeder kann dieser Liste folgen</string>
+	<string name="applying_Str">wird angewendet…</string>
+	<string name="Not_Following_Yet">folgt noch keinem</string>
+	<string name="Sure_Log_Out">Willst Du Dich wirklich ausloggen?</string>
+	<string name="Sure_Delete_Search">Willst Du diese Suche wirklich löschen?</string>
+	
+	<string name="Create_List_Back_Button">zurück</string>
+	<string name="User_Block">blockieren</string>
+	<string name="Block_Friend">Freund blockieren</string>
+	<string name="Blocked">blockiert</string>
+	<string name="By_You">von Dir</string>
+	
+	<string name="Cancel_String">Abbruch</string>
+	<string name="Trends_Loc_Title">Ort ändern</string>
+	<string name="Cities_Str">Städte</string>
+	<string name="Click_to_Load_More">Mehr laden</string>
+	<string name="Click_to_Load_New">Neu laden</string>
+	<string name="Close">schließen</string>
+	<string name="Country_Str">Land</string>
+	<string name="Create_List_Name">Liste erstellen</string>
+
+	<string name="Delete_String">löschen</string>
+	<string name="Delete_Tweet_Success">Tweet gelöscht</string>
+	<string name="Description_String">Beschreibung</string>
+	<string name="Device_does_not_support_photo_library">Gerät unterstützt kein Fotoarchiv</string>
+	<string name="Direct_Mess">Direktnachricht</string>
+	<string name="List_View_Done_Button">fertig</string>
+	<string name="Downloading_str">lädt runter…</string>
+
+	<string name="List_View_Edit_Button">bearbeiten</string>
+	<string name="Enter_Search">Gib Deinen Suchbegriff ein</string>
+	<string name="Enter_Tweet">Gib Deinen Tweet ein</string>
+	<string name="Tweet_Limit_Chars">der eingegebene Text überschreitet die maximale Länge von 140 Zeichen</string>
+	<string name="Err">Fehler</string>
+	<string name="Error_accessing_photo_library">Fehler beim Zugriff auf das Fotoarchiv</string>
+	
+	<string name="Favorite_Str">Favorit</string>
+	<string name="Profile_Favorite_Page_Title">Favoriten</string>
+	<string name="User_Follow">Folgen</string>
+	<string name="List_View_Options_Third">Follower</string>
+	<string name="List_View_Options_Second">Following</string>
+	<string name="For_You">für Dich</string>
+
+	<string name="No_Followers_yet">hat noch keine Follower</string>
+	<string name="Not_Favourited_yet">hat noch keine Tweets favorisiert</string>
+	<string name="Tweet_Cant_Retweet">Dieser Tweet kann nicht retweeted werden</string>
+	<string name="FirstTab">Startseite</string>
+	<string name="SecondTab">Erwähnung</string>
+	<string name="Invalid_Id_Or_Password">Benutzername oder Passwort ungültig</string>
+	<string name="Not_Listed_yet">%s wird noch auf keiner Liste geführt</string>
+
+	<string name="Search_View_Segment_Bottom_Second_Option">Links</string>
+	<string name="FourthTab">Liste</string>
+	<string name="List_By">Liste von %s</string>
+	<string name="List_Err">Listenfehler</string>
+	<string name="List_View">Listenansicht</string>
+	<string name="Profile_List_Page_Title">gelistet</string>
+	<string name="Lists">Listen</string>
+	<string name="Loading">lädt..</string>
+	<string name="Login_Err">Login-Fehler</string>
+	<string name="Login_Page_Title">Login-Seite</string>
+	<string name="More_View_Logout">Ausloggen</string>
+
+	<string name="Mention_View_Title"> Erwähnung</string>
+	<string name="Mention_Data">Erwähnungs-Daten</string>
+	<string name="ThirdTab">Nachricht</string>
+	<string name="Message_For">Nachricht für %s </string>
+	<string name="Message_sent_successfully">Nachricht versendet </string>
+	<string name="FifthTab">mehr</string>
+	
+	<string name="Update_List_Name">Name</string>
+	<string name="Network_Error">Netzwerkfehler</string>
+	<string name="Search_View_Segment_header_First_Option">neue Suche</string>
+	<string name="New_Tweet">neuer Tweet</string>
+	<string name="No_New_Available">neue Tweets nicht verfügbar</string>
+
+	<string name="No">Nein</string>
+	<string name="No_More_Followers">keine weiteren Followers verfügbar</string>
+	<string name="No_More_Followers_List">keine weiteren Follower-Listen</string>
+	<string name="No_More_Following">kein weiteres Following verfügbar</string>
+	<string name="No_More_Following_List">Keine weitere Following-Liste verfügbar</string>
+	<string name="No_Search_Available">Suche nicht verfügbar</string>
+	<string name="No_Trend_Choose">kein Trend ausgewählt, bitte wähle/ändere den Ort</string>
+
+	<string name="Ok">Ok</string>
+	<string name="Create_List_Private_Header_Description">Nur Du hast Zugriff auf diese Liste</string>
+	<string name="Login_Page_Password">Passwort</string>
+	<string name="Search_View_Segment_Bottom_Third_Option">Leute</string>
+	<string name="Themes_View_Photo_Library_Button">Fotoarchiv</string>
+	<string name="Wifi_Internet_Connection_Message">Bitte überprüfe Deine WiFi/Internet-Verbindung</string>
+	<string name="Please_Try_After_Some_Time">Bitte versuche es später wieder</string>
+	<string name="Create_List_Private_Header">privat</string>
+	<string name="Profile_Page_Title">Profil</string>
+	<string name="Profile_Followers">Profil-Followers</string>
+	<string name="Profile_Following">folgt</string>
+	<string name="Create_List_Public_Header">öffentlich</string>
+
+	<string name="Retweet_String">Retweet</string>
+	<string name="More_View_Retweet_First_Option">Retweet von Anderen</string>
+	<string name="More_View_Retweet_Second_Option">Retweet von Dir</string>
+	<string name="Retweet_Successful">Retweet erfolgreich</string>
+	<string name="Retweet_with_Comment_Title">Retweet mit Kommentar</string>
+	<string name="Retweet_By_You_Title">Retweeted von</string>
+	<string name="Retweeted_by_others">Retweet von anderen</string>
+	<string name="Retweeted">Retweeted</string>
+
+	<string name="Create_List_Save_Button">Speichern</string>
+	<string name="Search_View_Segment_header_Second_Option">gespeicherte Suche</string>
+	<string name="More_View_Search">Suche</string>
+	<string name="Search_Save_Successful">Suche erfolgreich gespeichert</string>
+	<string name="Search_Exist">Suche existiert bereits</string>
+	<string name="Select_a_Photo_Str">Wähle ein Foto aus</string>
+	<string name="Select_a_Photo_From_Str">Wähle ein Foto von %s aus</string>
+	<string name="Select_a_Video_Str">Wähle ein Video</string>
+	<string name="Select_a_Video_From_Str">Wähle ein Video von %s aus</string>
+	<string name="Select_To_Upload">auswählen zum Hochladen</string>
+	<string name="Compose_Tweet_Send_Button">senden</string>
+	<string name="Send_DM">sende Direktnachricht</string>
+	<string name="SendMessage_Str">sende Nachricht</string>
+	<string name="Themes_View_Set_Default_Button">auf Grundeinstellung zurücksetzen</string>
+	<string name="Login_Page_Sign_In_button">Anmeldung</string>
+
+	<string name="More_View_Themes">Themen</string>
+	<string name="No_People_Added_List">Deiner Liste wurden noch keine Leute hinzugefügt</string>
+	<string name="Trend">Trend</string>
+	<string name="More_View_Trends">Trends</string>
+	<string name="Tweet_favorited_Successfully">Tweet erfolgreich favorisiert</string>
+	<string name="Tweet_Unfavorited_Successfully">Tweet erfolgreich entfavorisiert</string>
+	<string name="More_View_User_Detail_First_Option">Tweets</string>
+	<string name="Twitter_Logout">Twitter Logout</string>
+	<string name="Twitter_Web_View_Title">Twitter-Webansicht</string>
+	
+	<string name="Unable_Post_Data">kann Dateien nicht bei Twitter posten</string>
+	<string name="User_UnBlock">Blockierung aufheben</string>
+	<string name="Unblock_Friend">Blockierung Deines Freundes aufheben</string>
+	<string name="UnBlocked">Blockierung aufgehoben</string>
+	<string name="Undo_Retweet_Success">Retweet gelöscht</string>
+	<string name="User_UnFollow">Entfolgen</string>
+	<string name="Update_List_Title">aktualisiere Liste</string>
+	<string name="User_Added">Benutzer hinzugefügt</string>
+	<string name="User_added_successful">Benutzer erfolgreich zu Deiner Liste hinzugefügt</string>
+	<string name="More_View_Down_User_Detail">Benutzerdetails</string>
+	<string name="No_Tweets_Yet">noch keine Tweets von diesem Benutzer</string>
+	<string name="Login_Page_User_Id">Benutzer-Id</string>
+
+	<string name="Worldwide_Str">weltweit</string>
+
+	<string name="Yes_String">ja</string>
+	<string name="No_Mentioned_Tweets">Du hast keine erwähnten Tweets</string>
+	<string name="Not_Having_Tweets_Message">Du hast keine Tweets</string>
+	<string name="Send_DirectMessage">Du kannst keine Nachrichten an Benutzer schicken die Dir nicht folgen</string>
+	<string name="Dont_Have_Followers_List">Du hast keine Follower-Liste</string>
+	<string name="Dont_Have_Following_List">Du hast keine Following-Liste</string>
+	<string name="NO_List">Du hast keine Liste</string>
+	<string name="List">Liste</string>
+	<string name="More_View_Retweet_Third_Option">Deine Tweets, retweeted</string>
+	<string name="Server_Err_Try_Again">Serverfehler, bitte nochmal versuchen</string>
+	<string name="Unable_Fetch_Data">kann keine Daten von Twitter laden</string>
+	<string name="Character_limit">Du hast die maximale Zeichenzahl von 140 erreicht</string>
+
+	<string name="Check_internetconnection">Bitte überprüfe Deine Internetverbindung oder versuche es später wieder</string>
+	<string name="Compose_Tweet_Title">Erstelle einen Tweet</string>
+	<string name="Create_List_List_Name">Erstelle eine Liste</string>
+	<string name="Create_OntherList">Möchtest Du eine weitere Liste erstellen?</string>
+	<string name="Enter_ListName">Bitte gib den Namen Deiner Liste ein</string>
+	<string name="List_Created_Success">Liste erfolgreich erstellt</string>
+	<string name="List_Limit">ein Benutzer kann maximal 20 Listen führen</string>
+	<string name="List_Modified">Liste erfolgreich geändert</string>
+	<string name="ListName_Exits">Listenname existiert bereits, bitte gib einen anderen ein</string>
+	<string name="No_DirectMessage">Du hast keine Direktnachrichten</string>
+	<string name="No_MoreCharacter">keine Zeichen übrig</string>
+	<string name="No_MoreListAva">keine Liste mehr verfügbar</string>
+	<string name="Older_Tweets_Not_Available">ältere Tweets sind nicht verfügbar</string>
+
+	<string name="People_Search_View_Title">Ergebnisse für %s</string>
+	<string name="Profile_List">Profilliste</string>
+	<string name="Reply_Tweet_Title">antworten</string>
+	<string name="Saved_Search_Show_Title">gespeicherte Suchdetails</string>
+	<string name="Themes_View_Camera_Button">Kamera</string>
+	<string name="Trends_Choose_Loc_Title">wähle Ort </string>
+	<string name="Tweet_Data">Tweet-Daten</string>
+	<string name="Tweet_Delete_Success">Tweet erfolgreich gelöscht</string>
+	<string name="Twitter_Servererror">Twitter Serverfehler</string>
+	<string name="Unfavorited_Str">Entfavorisieren</string>
+	<string name="Undo_RetweetStr">Retweet rückgängig machen</string>
+	<string name="List_Follow_By">Listen, denen %s folgt</string>
+	<string name="List_Following_By">Listen, die %s beinhalten</string>
+
+	<string name="Message_By">Nachricht von %s</string>
+	<string name="Media_ActionSheet_Title">öffnen mit %s</string>
+	<string name="WebView_Str">Webansicht</string>
+	<string name="Natvieview_Str">Originalansicht</string>
+	<string name="Photo_Str">Foto</string>
+	<string name="Video_Str">Video</string>
+	<string name="Video_Album_Str">Videoalbum</string>
+	<string name="Photo_Album_Str">Fotoalbum</string>
+	
+	<string name="Link_Str">Tweets mit Links</string>
+	<string name="File_Not_Found">die gesuchte Datei existiert nicht mehr</string>
+	<string name="Image_show_title">Profilfoto</string>
+	<string name="Region_not_avialble_Str">Sorry, aus dieser Region gibt es keine Trends. Bitte wähle eine andere Region aus.</string>
+	<string name="Download_and_Apply_String">Runterladen und anwenden</string>
+	<string name="Downloads_Str">Downloads</string>
+	<string name="Popularity_Str">Beliebtheit</string>
+	<string name="Preview_Str">Vorschau</string>
+	<string name="You_havent_saved_any_searches_yet_Str">Du hast noch keine Suchen gespeichert</string>
+	<string name="You_havent_any_mention_tweets_Str">Du hast keine erwähnten Tweets</string>
+	<string name="Last_Updated">zuletzt aktualisiert</string>
+	<string name="User_SendDM">Sende Direktnachricht</string>
+	<string name="DM_View_First_Option">Diskussion</string>
+
+	<string name="DM_View_Second_Option">erhalten</string>
+	<string name="DM_View_Third_Option">gesendet</string>
+	<string name="List_View_Options_First">Deine Liste</string>
+	<string name="User_List">Liste</string>
+	<string name="Retweet_By_Other_Title">von </string>
+	<string name="Tweet_Fav_Success">Tweet erfolgreich favorisiert</string>
+	<string name="Tweet_UnFav_Success">Tweet erfolgreich entfavorisiert</string>
+	<string name="Image_Save_Alert_Message">Bild erfolgreich im Fotoarchiv abgespeichert</string>
+	<string name="Release_To_Refresh">Loslassen zur Aktualisierung</string>
+	<string name="Pull_Down_To_Refresh">Herunterziehen zur Aktualisierung</string>
+	<string name="Conversation_Str">Konversation</string>
+	<string name="Apply_Str">Anwenden</string>
+
+	<string name="You_havent_retweeted_anything_yet_Str">Du hast noch nicht retweeted</string>
+	<string name="You_havent_been_retweeted_yet_Str">Von Dir wurde noch nichts retweeted</string>
+	<string name="You_havent_Favorites_anything_yet_Str">Du hast noch nicht favorisiert</string>
+	<string name="More_View_Favorite">  Favorit</string>
+	<string name="More_View_Retweet"> Retweets</string>
+	<string name="More_View_Up_User_Detail">Benutzerdetails</string>
+	<string name="Retweet_Success">Retweet erfolgreich</string>
+	<string name="Trends_View_Location_Button">Ort</string>
+	<string name="User_AddToList">zu Liste hinzufügen</string>
+	<string name="Uploading_str">lädt hoch…</string>
+	<string name="Image_Save_Str">Bild speichern</string>
+	<string name="Login_Page_Str">Login-Seite</string>
+	<string name="Reply_View_Str">Antworten ansehen</string>
+	
+	<string name="Take_Photo">Take Photo</string>
+	<string name="From_Library">From Library</string>
+	<string name="Use_Photo">Use Photo</string>
+	<string name="Return_to_Default">Return to Default</string>
+	<string name="You_are_not_following_anyone_yet">You are not following anyone yet</string>
+	<string name="Leopard">Leopard</string>
+	<string name="Vivid">Vivid</string>
+	<string name="Flower">Flower</string>
+	<string name="Preview">Preview</string>
+	
+	<string name="Refresh">Refresh</string>
+	<string name="Compose">neuer Tweet</string>
+	
+	<string name="Use_Image_bg">Use Image as Background</string>
+	<string name="Select">Select</string>
+	<string name="Use_Image">Use Images</string>
+	
+	<string name="Use_Theme_Image">Use Theme Background</string>
+	<string name="Want_Background_Image">Background Image?</string>
+	<string name="Theme">Theme</string>
+	<string name="Theme_Photo">Photo</string>
+	
+	<string name="Download_Theme">Downloading theme…</string>
+	<string name="Apply_Theme">Applying theme…</string>
+	
+</resources>

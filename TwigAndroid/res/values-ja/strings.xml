@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Glam TwiG</string>
+	
+	<string name="Add_List_Str">リストに追加</string>
+	<string name="All_Blank_Space">誰でもフォローできるリスト</string>
+	<string name="Update_List_Public_Header_Description">誰でもフォローできるリスト</string>
+	<string name="applying_Str">適用中..</string>
+	<string name="Not_Following_Yet">まだ誰もフォローしていません</string>
+	<string name="Sure_Log_Out">本当にログアウトしますか？</string>
+	<string name="Sure_Delete_Search">本当にこのリストを削除しますか？</string>
+	
+	<string name="Create_List_Back_Button">戻る</string>
+	<string name="User_Block">ブロック</string>
+	<string name="Block_Friend">ブロック</string>
+	<string name="Blocked">ブロック中</string>
+	<string name="By_You">送信</string>
+	
+	<string name="Cancel_String">キャンセル</string>
+	<string name="Trends_Loc_Title">国を変更</string>
+	<string name="Cities_Str">都市</string>
+	<string name="Click_to_Load_More">もっと読み込む</string>
+	<string name="Click_to_Load_New">最新を確認する</string>
+	<string name="Close">閉じる</string>
+	<string name="Country_Str">国</string>
+	<string name="Create_List_Name">リストを作成する</string>
+
+	<string name="Delete_String">削除</string>
+	<string name="Delete_Tweet_Success">つぶやきを削除しました</string>
+	<string name="Description_String">詳細</string>
+	<string name="Device_does_not_support_photo_library">デバイスがフォトライブラリーをサポートしていません</string>
+	<string name="Direct_Mess">メッセージ</string>
+	<string name="List_View_Done_Button">完了</string>
+	<string name="Downloading_str">ダウンロード..</string>
+
+	<string name="List_View_Edit_Button">編集</string>
+	<string name="Err">エラー</string>
+	<string name="Error_accessing_photo_library">フォトライブラリーにアクセスできません</string>
+	
+	<string name="Favorite_Str">お気に入り</string>
+	<string name="Profile_Favorite_Page_Title">お気に入り</string>
+	<string name="User_Follow">フォロー</string>
+	<string name="List_View_Options_Third">フォロワー</string>
+	<string name="List_View_Options_Second">フォロー中</string>
+	<string name="For_You">受信</string>
+
+	<string name="No_Followers_yet">フォロワーが居ません</string>
+	<string name="Not_Favourited_yet">まだお気に入りがありません</string>
+	<string name="Tweet_Cant_Retweet">このつぶやきは RT できません</string>
+	<string name="FirstTab">ホーム</string>
+	<string name="SecondTab"> ＠関連</string>
+	<string name="Invalid_Id_Or_Password">無効なログインまたはパスワードです</string>
+
+	<string name="Search_View_Segment_Bottom_Second_Option">リンク</string>
+	<string name="FourthTab">リスト</string>
+	<string name="List_By">%s のリスト</string>
+	<string name="List_Err">リストエラー</string>
+	<string name="List_View">リストを見る</string>
+	<string name="Profile_List_Page_Title">リスト</string>
+	<string name="Lists">リスト</string>
+	<string name="Loading">読込中…</string>
+	<string name="Login_Err">ログインエラー</string>
+	<string name="Login_Page_Title"> ログインページ</string>
+	<string name="More_View_Logout">ログアウト</string>
+
+	<string name="Mention_View_Title">関連ﾂｲｰﾄ</string>
+	<string name="Mention_Data">関連データ</string>
+	<string name="ThirdTab">メッセージ</string>
+	<string name="Message_For">%s へのメッセージ </string>
+	<string name="Message_sent_successfully">メッセージ送信完了♡ </string>
+	<string name="FifthTab">その他</string>
+	
+	<string name="Update_List_Name">名前</string>
+	<string name="Network_Error">ネットワークエラー</string>
+	<string name="Search_View_Segment_header_First_Option">新規検索</string>
+	<string name="New_Tweet">最新のつぶやき</string>
+	<string name="No_New_Available">新しいつぶやきはありません</string>
+
+	<string name="No">いいえ</string>
+	<string name="No_More_Followers">これ以上フォロワーは居ません</string>
+	<string name="No_More_Followers_List">これ以上フォロワーのリストはありません</string>
+	<string name="No_More_Following">これ以上フォロー中のユーザーは居ません</string>
+	<string name="No_More_Following_List">これ以上フォロー中のユーザーのリストはありません</string>
+	<string name="No_Search_Available">検索結果なし</string>
+	<string name="No_Trend_Choose">トレンドが選択されていません、地域を選んでください</string>
+
+	<string name="Ok">はい</string>
+	<string name="Create_List_Private_Header_Description">あなただけが見れるリスト</string>
+	<string name="Login_Page_Password">パスワード</string>
+	<string name="Search_View_Segment_Bottom_Third_Option">ユーザー</string>
+	<string name="Themes_View_Photo_Library_Button">フォトライブラリー</string>
+	<string name="Wifi_Internet_Connection_Message">Wifi またはインターネットの接続を確認してください</string>
+	<string name="Please_Try_After_Some_Time">しばらくの後、再度試してください</string>
+	<string name="Create_List_Private_Header">プライベート</string>
+	<string name="Profile_Page_Title">プロフィール</string>
+	<string name="Profile_Followers">フォロワーのプロフィール</string>
+	<string name="Profile_Following">フォローしている人のプロフィール</string>
+	<string name="Create_List_Public_Header">公開</string>
+
+	<string name="Retweet_String">リツイート</string>
+	<string name="More_View_Retweet_First_Option">他ユーザのリツイート</string>
+	<string name="More_View_Retweet_Second_Option">あなたのリツイート</string>
+	<string name="Retweet_Successful">リツイートしました</string>
+	<string name="Retweet_with_Comment_Title">コメント付 RT</string>
+	<string name="Retweeted_by_others">他ユーザのリツイート</string>
+	<string name="Retweeted">リツイート</string>
+
+	<string name="Create_List_Save_Button">保存</string>
+	<string name="Search_View_Segment_header_Second_Option">保存された検索</string>
+	<string name="More_View_Search">検索</string>
+	<string name="Search_Save_Successful">検索の保存に成功</string>
+	<string name="Search_Exist">すでにその検索は存在します</string>
+	<string name="Compose_Tweet_Send_Button">送信</string>
+	<string name="Send_DM">DM を送る</string>
+	<string name="SendMessage_Str">メッセージを送信</string>
+	<string name="Themes_View_Set_Default_Button">デザインをデフォルトに戻す</string>
+	<string name="Login_Page_Sign_In_button">ログイン</string>
+
+	<string name="More_View_Themes">デザイン</string>
+	<string name="No_People_Added_List">リストに追加されている人が居ません</string>
+	<string name="Trend">トレンド</string>
+	<string name="More_View_Trends">トレンド</string>
+	<string name="Tweet_favorited_Successfully">お気に入りに設定しました</string>
+	<string name="Tweet_Unfavorited_Successfully">お気に入りを解除しました</string>
+	<string name="More_View_User_Detail_First_Option">ツイート</string>
+	<string name="Twitter_Logout">ツイッターログアウト</string>
+	<string name="Twitter_Web_View_Title">ブラウザーモード</string>
+	
+	<string name="Unable_Post_Data">ツイッターに投稿できません</string>
+	<string name="User_UnBlock">ブロック解除</string>
+	<string name="Unblock_Friend">ブロックを解除する</string>
+	<string name="UnBlocked">ブロック解除中</string>
+	<string name="Undo_Retweet_Success">リツイートを取り消しました</string>
+	<string name="User_UnFollow">フォロー解除</string>
+	<string name="Update_List_Title">リストを更新</string>
+	<string name="User_Added">ユーザーを追加しました</string>
+	<string name="User_added_successful">ユーザーがリストに追加されました</string>
+	<string name="More_View_Down_User_Detail">ユーザー詳細</string>
+	<string name="No_Tweets_Yet">まだつぶやきがありません</string>
+	<string name="Login_Page_User_Id">ユーザーID</string>
+
+	<string name="Worldwide_Str">世界中</string>
+
+	<string name="Yes_String">はい</string>
+	<string name="No_Mentioned_Tweets">関連つぶやきがありません</string>
+	<string name="Not_Having_Tweets_Message">つぶやきがありません</string>
+	<string name="Send_DirectMessage">あなたをフォローしていない相手にはメッセージを送れません</string>
+	<string name="Dont_Have_Followers_List">フォロワーリストがありません</string>
+	<string name="Dont_Have_Following_List">フォローしているリストがありません</string>
+	<string name="NO_List">リストがありません</string>
+	<string name="List">リスト</string>
+	<string name="More_View_Retweet_Third_Option">RT されたあなたのつぶやき</string>
+	<string name="Server_Err_Try_Again">サーバーエラー、再度試してください</string>
+	<string name="Unable_Fetch_Data">ツイッターからデータが取得できません</string>
+	<string name="Character_limit">文字数制限に達しました</string>
+
+	<string name="Check_internetconnection">インターネットへの接続を確認し、再度試してください</string>
+	<string name="Compose_Tweet_Title">つぶやく</string>
+	<string name="Create_List_List_Name">リストを作成する</string>
+	<string name="Create_OntherList">別のリストを作成しますか</string>
+	<string name="Enter_ListName">リストの名前を入力してください</string>
+	<string name="List_Created_Success">リストを作成しました</string>
+	<string name="List_Limit">作成できるリストは最大20個です</string>
+	<string name="List_Modified">リスト変更が正常に</string>
+	<string name="ListName_Exits">そのリスト名は既に存在します。別の名前を選んでください</string>
+	<string name="No_DirectMessage">メッセージはありません</string>
+	<string name="No_MoreCharacter">これ以上入力できません</string>
+	<string name="No_MoreListAva">これ以上リストはありません</string>
+	<string name="Not_Listed_yet">まだリストに入っていません</string>
+	<string name="Older_Tweets_Not_Available">これより古いつぶやきはありません</string>
+
+	<string name="People_Search_View_Title">%s の検索結果</string>
+	<string name="Profile_List">プロフィールリスト</string>
+	<string name="Reply_Tweet_Title">返信</string>
+	<string name="Retweet_By_You_Title">によるリツイート</string>
+	<string name="Saved_Search_Show_Title">保存した検索の詳細</string>
+	<string name="Themes_View_Camera_Button">カメラ</string>
+	<string name="Trends_Choose_Loc_Title">地域を選択してください</string>
+	
+	<string name="Tweet_Data">つぶやきデータ</string>
+	<string name="Tweet_Delete_Success">つぶやきは削除されました</string>
+	<string name="Twitter_Servererror">ツイッターのサーバーエラーが発生しました</string>
+	<string name="List_Follow_By">%sがフォローしているリスト</string>
+	<string name="List_Following_By">%s が追加されているリスト</string>
+
+	<string name="Message_By">%s によるメッセージ </string>
+	<string name="Enter_Search">検索キーワードを入力してください</string>
+	<string name="Media_ActionSheet_Title">開いている状態で</string>
+	<string name="WebView_Str">ブラウザーモード</string>
+	<string name="Natvieview_Str">アプリビュー</string>
+	<string name="Select_To_Upload">選択してアップロードする</string>
+	<string name="Photo_Str">写真</string>
+	<string name="Video_Str">ビデオ</string>
+	<string name="Select_a_Video_From_Str">%s から ビデオを選択</string>
+	<string name="Select_a_Video_Str">ビデオを選択</string>
+	<string name="Video_Album_Str">ビデオアルバム</string>
+	<string name="Select_a_Photo_From_Str">写真から選択</string>
+	<string name="Select_a_Photo_Str">写真を選択します</string>
+	<string name="Photo_Album_Str">フォトアルバム</string>
+	
+	<string name="Unfavorited_Str">お気に入りを外す</string>
+	<string name="Undo_RetweetStr">リツイートを取り消す</string>
+	<string name="Link_Str">リンクを含むつぶやき</string>
+	<string name="File_Not_Found">そのファイルは存在しません</string>
+	<string name="Image_show_title">プロフィール画像</string>
+	<string name="Region_not_avialble_Str">指定の地域にはトレンドデータがありません。他の領域を選択してください</string>
+	<string name="Download_and_Apply_String">ダウンロードして適用</string>
+	<string name="Downloads_Str">ダウンロード</string>
+	<string name="Popularity_Str">人気</string>
+	<string name="Preview_Str">プレビュー</string>
+	<string name="You_havent_saved_any_searches_yet_Str">保存された検索がありません</string>
+	<string name="You_havent_any_mention_tweets_Str">関連ツイートがありません</string>
+	<string name="Last_Updated">最終更新</string>
+	<string name="User_SendDM">DM 送信</string>
+	<string name="DM_View_First_Option">会話</string>
+
+	<string name="DM_View_Second_Option">受信</string>
+	<string name="DM_View_Third_Option">送信</string>
+	<string name="Enter_Tweet">つぶやきを入力</string>
+	<string name="List_View_Options_First">あなたのリスト</string>
+	<string name="User_List">リスト</string>
+	<string name="Retweet_By_Other_Title">他ユーザのリツイート</string>
+	<string name="Tweet_Fav_Success">つぶやきをお気に入りに設定しました</string>
+	<string name="Tweet_Limit_Chars">入力された文字数が140文字を超えています</string>
+	<string name="Tweet_UnFav_Success">つぶやきのお気に入りを解除しました</string>
+	<string name="Image_Save_Alert_Message">画像は写真で正常にライブラリを保存</string>
+	<string name="Release_To_Refresh">指をはなして更新...</string>
+	<string name="Pull_Down_To_Refresh">プルダウンで更新...</string>
+	<string name="Conversation_Str">会話</string>
+	<string name="Apply_Str">適用する</string>
+
+	<string name="You_havent_retweeted_anything_yet_Str">リツイートがありません</string>
+	<string name="You_havent_been_retweeted_yet_Str">リツイートされていません</string>
+	<string name="You_havent_Favorites_anything_yet_Str">お気に入りがありません</string>
+	<string name="More_View_Favorite">  お気に入り</string>
+	<string name="More_View_Retweet"> リツイート</string>
+	<string name="More_View_Up_User_Detail">ユーザー詳細</string>
+	<string name="Retweet_Success">リツイート完了♡</string>
+	<string name="Trends_View_Location_Button">国を変更</string>
+	<string name="User_AddToList">リストに追加</string>
+	<string name="Uploading_str">アップロード..</string>
+	<string name="Image_Save_Str">画像を保存</string>
+	<string name="Login_Page_Str">ログイン画面</string>
+	<string name="Reply_View_Str">会話</string>
+	
+	<string name="Take_Photo">写真を撮影する</string>
+	<string name="From_Library">ライブラリから選択</string>
+	<string name="Use_Photo">写真を使う</string>
+	<string name="Return_to_Default">デフォルトに戻す</string>
+	<string name="You_are_not_following_anyone_yet">誰もフォローしていません</string>
+	<string name="Leopard">ピンクレオパード</string>
+	<string name="Vivid">ビビッド</string>
+	<string name="Flower">フラワーレース</string>
+	<string name="Preview">プレビュー</string>
+	
+	<string name="Refresh">再読み込み</string>
+	<string name="Compose">新規ツイート</string>
+	
+	<string name="Use_Image_bg">写真を背景に設定する</string>
+	<string name="Select">選択</string>
+	<string name="Use_Image">画像を利用</string>
+	
+	<string name="Use_Theme_Image">このデザインの背景を利用する</string>
+	<string name="Want_Background_Image">どの背景を利用しますか？</string>
+	<string name="Theme">新しいデザイン</string>
+	<string name="Theme_Photo">今利用している画像</string>
+	
+	<string name="Download_Theme">デザインをダウンロード中…</string>
+	<string name="Apply_Theme">Applying theme…</string>
+		
+</resources>

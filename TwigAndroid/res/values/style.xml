@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- main theme -->
+	<style name="MyTheme" parent="@android:style/Theme.Light">
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowBackground">@color/backgroundColor</item>
+	</style>
+
+	<!-- label in navigation bar -->
+	<style name="GlamTextWindowTile" parent="@android:style/TextAppearance">
+		<item name="android:textSize">18px</item>
+		<item name="android:textColor">#FFFFFF</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:gravity">center</item>
+	</style>
+
+	<!-- screenname label in navigation bar -->
+	<style name="GlamTextScreenTile" parent="@android:style/TextAppearance">
+		<item name="android:textSize">16px</item>
+		<item name="android:textColor">#FFFFFF</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:gravity">center</item>
+	</style>
+
+	<!-- text box -->
+	<style name="GlamTextBox" parent="@android:style/TextAppearance">
+		<item name="android:textSize">14px</item>
+		<item name="android:textColor">#000000</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+
+	<!-- button  -->
+	<style name="GlamButton" parent="@android:style/TextAppearance">
+		<item name="android:textSize">14px</item>
+		<item name="android:textColor">#000000</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+
+	<!-- instruction label in sign in -->
+	<style name="GlamInstruction1" parent="@android:style/TextAppearance">
+		<item name="android:textSize">18px</item>
+		<item name="android:textColor">#000000</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	<style name="GlamInstruction2" parent="@android:style/TextAppearance">
+		<item name="android:textSize">14px</item>
+		<item name="android:textColor">#000000</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	<style name="GlamInstruction3" parent="@android:style/TextAppearance">
+		<item name="android:textSize">14px</item>
+		<item name="android:textColor">#000000</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+
+	<!-- sign in label -->
+	<style name="GlamSignInLabel" parent="@android:style/TextAppearance">
+		<item name="android:textSize">16px</item>
+		<item name="android:textColor">#BE9226</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+
+	<!-- Button on the top -->
+	<style name="GlamTopButton" parent="@android:style/TextAppearance">
+		<item name="android:textSize">12px</item>
+		<item name="android:textColor">#FFFFFF</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+
+	<style name="GlamSearchButton" parent="@android:style/TextAppearance">
+		<item name="android:textSize">14px</item>
+		<item name="android:textColor">#FFFFFF</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+
+	<!-- Other Button  -->
+	<style name="GlamOtherButton" parent="@android:style/TextAppearance">
+		<item name="android:textSize">12px</item>
+		<item name="android:textColor">#000000</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	<!-- text in time line Name-->
+	<style name="GlamTimeLineName" parent="@android:style/TextAppearance">
+		<item name="android:textSize">14px</item>
+		<item name="android:textColor">#A80063</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+
+	<!-- text in time line Text-->
+	<style name="GlamTimeLineText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">14px</item>
+		<item name="android:textColor">#000000</item>
+	</style>
+
+	<!-- text in Profile Name-->
+	<style name="GlamProfileNameText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">18px</item>
+		<item name="android:textColor">#FFFFFF</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:gravity">center</item>
+	</style>
+
+
+	<!-- text in Profile Scereen Name-->
+	<style name="GlamProfileScreenNameText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">14px</item>
+		<item name="android:textColor">#FFFFFF</item>
+	</style>
+
+	<!-- text in Profile Button Name-->
+	<style name="GlamProfileButtonNameText" parent="@android:style/TextAppearance">
+
+		<item name="android:textSize">14px</item>
+		<item name="android:textColor">#FFFFFF</item>
+		<item name="android:textStyle">bold</item>
+		
+	</style>
+
+	<!-- text in Profile Desc-->
+	<style name="GlamProfileDescriptionText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">12px</item>
+		<item name="android:textColor">#FFFFFF</item>
+	</style>
+
+	<!-- text in Profile Data-->
+	<style name="GlamProfileDataText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">17px</item>
+		<item name="android:textColor">#000000</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	<!-- text in Profile Data-->
+	<style name="GlamProfileLogoutText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">17px</item>
+		<item name="android:textColor">#ffffff</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+
+	<!-- value in Profile Data-->
+	<style name="GlamProfileValueText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">17px</item>
+		<item name="android:textColor">#A80063</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+
+	<!-- Text in More Sub menu options -->
+	<style name="MoreSubMenuText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">17px</item>
+		<item name="android:textColor">#000000</item>
+		<item name="android:textStyle">normal</item>
+	</style>
+
+	<!-- List -->
+	<style name="ListSubText" parent="@android:style/TextAppearance">
+		<item name="android:textSize">12px</item>
+		<item name="android:textColor">#000000</item>
+		<item name="android:textStyle">normal</item>
+	</style>
+	<style name="Animation" parent="android:Animation" />
+<!-- 	<style name="Animation.GlamExpandActivity" parent="android:Animation.Activity">
+		<item name="android:activityOpenEnterAnimation">@anim/glam_expand_oe</item>
+		<item name="android:activityOpenExitAnimation">@anim/glam_expand_ox</item>
+		<item name="android:activityCloseEnterAnimation">@anim/glam_expand_ce</item>
+		<item name="android:activityCloseExitAnimation">@anim/glam_expand_cx</item>
+	</style>
+ -->	
+
+</resources>

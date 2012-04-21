@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Glam TwiG</string>
+
+	<string name="Add_List_Str">리스트 추가</string>
+	<string name="All_Blank_Space">공백은 사용할 수 없습니다</string>
+	<string name="Update_List_Public_Header_Description">누구나 이 리스트를 팔로우할 수 있습니다</string>
+	<string name="applying_Str">적용 중</string>
+	<string name="Not_Following_Yet">누구도 팔로잉하고 있지 않습니다</string>
+	<string name="Sure_Log_Out">로그아웃을 원하십니까?</string>
+	<string name="Sure_Delete_Search">목록을 삭제하시겠습니까?</string>
+	
+	<string name="Create_List_Back_Button">뒤로 가기/뒤로</string>
+	<string name="User_Block">차단 </string>
+	<string name="Block_Friend">친구 차단</string>
+	<string name="Blocked">차단되었습니다</string>
+	<string name="By_You">전송</string>
+	
+	<string name="Cancel_String">취소</string>
+	<string name="Trends_Loc_Title">지역 변경</string>
+	<string name="Cities_Str">도시</string>
+	<string name="Click_to_Load_More">더 보기 / 더 보이기 / 더 불러오기</string>
+	<string name="Click_to_Load_New">새로 보기 / 새로 보이기 / 새로 불러오기</string>
+	<string name="Close">닫기</string>
+	<string name="Country_Str">지역</string>
+	<string name="Create_List_Name">리스트 만들기</string>
+
+	<string name="Delete_String">지우기 / 지움 </string>
+	<string name="Delete_Tweet_Success">트윗이 성공적으로 지워졌습니다</string>
+	<string name="Description_String">설명</string>
+	<string name="Device_does_not_support_photo_library">기기가 포토 라이브러리를 지원하지 않습니다</string>
+	<string name="Direct_Mess">다이렉트 메시지 </string>
+	<string name="List_View_Done_Button">완료</string>
+	<string name="Downloading_str">내려받기</string>
+
+	<string name="List_View_Edit_Button">편집</string>
+	<string name="Enter_Search">찾기</string>
+	<string name="Enter_Tweet">트윗 올리기</string>
+	<string name="Tweet_Limit_Chars">내용이 140자를 넘어 업로드가 제한됨</string>
+	<string name="Err">에러</string>
+	<string name="Error_accessing_photo_library">포토 라이브러리에 엑서스하지 못했습니다</string>
+	
+	<string name="Favorite_Str">즐겨찾기</string>
+	<string name="Profile_Favorite_Page_Title">즐겨찾기</string>
+	<string name="User_Follow">팔로우 </string>
+	<string name="List_View_Options_Third">팔로워</string>
+	<string name="List_View_Options_Second">팔로잉</string>
+	<string name="For_You">수신</string>
+
+	<string name="No_Followers_yet">팔로워가 없습니다</string>
+	<string name="Not_Favourited_yet">아직 즐겨찾기가 없습니다</string>
+	<string name="Tweet_Cant_Retweet">이 트윗은 리트윗할 수 없습니다</string>
+	<string name="FirstTab">홈 / 처음</string>
+	<string name="SecondTab">멘션</string>
+	<string name="Invalid_Id_Or_Password">잘못된 로그인 혹은 암호</string>
+	<string name="Not_Listed_yet">X는아직 정렬 할 수 없습니다</string>
+
+	<string name="Search_View_Segment_Bottom_Second_Option">링크</string>
+	<string name="FourthTab">리스트</string>
+	<string name="List_By">X의 리스트</string>
+	<string name="List_Err">리스트 에러</string>
+	<string name="List_View">리스트 보기</string>
+	<string name="Profile_List_Page_Title">정렬</string>
+	<string name="Lists">정렬</string>
+	<string name="Loading">로딩 중 / 불러오는 중</string>
+	<string name="Login_Err">로딩 에러 / 불러오기 에러</string>
+	<string name="Login_Page_Title">로그인 페이지</string>
+	<string name="More_View_Logout">로그아웃</string>
+
+	<string name="Mention_View_Title"> 멘션</string>
+	<string name="Mention_Data">멘션 데이터</string>
+	<string name="ThirdTab">메시지</string>
+	<string name="Message_For">X로부터의 메시지</string>
+	<string name="Message_sent_successfully">성공적으로 메시지를 보냈습니다</string>
+	<string name="FifthTab">추가</string>
+	
+	<string name="Update_List_Name">이름</string>
+	<string name="Network_Error">네트워크 에러</string>
+	<string name="Search_View_Segment_header_First_Option">새로운 찾기</string>
+	<string name="New_Tweet">새로운 트윗</string>
+	<string name="No_New_Available">새로운 트윗이 없습니다</string>
+
+	<string name="No">없음</string>
+	<string name="No_More_Followers">더 이상의 팔로워가 없습니다</string>
+	<string name="No_More_Followers_List">더 이상의 팔로워 리스트가 없습니다</string>
+	<string name="No_More_Following">더 이상의 팔로잉이 없습니다</string>
+	<string name="No_More_Following_List">더 이상의 팔로잉 리스트가 없습니다</string>
+	<string name="No_Search_Available">검색결과 없음</string>
+	<string name="No_Trend_Choose">트렌트가 선택되지 않았습니다 / 지역을 선택하세요</string>
+
+	<string name="Ok">예</string>
+	<string name="Create_List_Private_Header_Description">당신만이 볼 수 있는 목록입니다</string>
+	<string name="Login_Page_Password">비밀번호</string>
+	<string name="Search_View_Segment_Bottom_Third_Option">사람</string>
+	<string name="Themes_View_Photo_Library_Button">포토 라이브러리 </string>
+	<string name="Wifi_Internet_Connection_Message">무선인터넷을 확인해주세요</string>
+	<string name="Please_Try_After_Some_Time">잠시 후에 다시 시도해 주십시오</string>
+	<string name="Create_List_Private_Header">개인적</string>
+	<string name="Profile_Page_Title">프로필</string>
+	<string name="Profile_Followers">팔로워의 프로필</string>
+	<string name="Profile_Following">팔로잉한 사람의 프로필</string>
+	<string name="Create_List_Public_Header">공적</string>
+
+	<string name="Retweet_String">리트윗</string>
+	<string name="More_View_Retweet_First_Option">다른 사람의 리트윗</string>
+	<string name="More_View_Retweet_Second_Option">내가 한 리트윗</string>
+	<string name="Retweet_Successful">리트윗이 성공했습니다</string>
+	<string name="Retweet_with_Comment_Title">코멘트와 함께 리트윗</string>
+	<string name="Retweet_By_You_Title">를 리트윗합니다</string>
+	<string name="Retweeted_by_others">다른 사용자의 리트윗</string>
+	<string name="Retweeted">리트윗되었습니다</string>
+
+	<string name="Create_List_Save_Button">저장</string>
+	<string name="Search_View_Segment_header_Second_Option">검색 저장</string>
+	<string name="More_View_Search">검색</string>
+	<string name="Search_Save_Successful">성공적으로 저장되었습니다</string>
+	<string name="Search_Exist">검색이 이미 존재합니다</string>
+	<string name="Compose_Tweet_Send_Button">보내기</string>
+	<string name="Send_DM">다이렉트 메시지 보내기</string>
+	<string name="SendMessage_Str">메시지 보내기</string>
+	<string name="Themes_View_Set_Default_Button">초기값으로 세팅하기</string>
+	<string name="Login_Page_Sign_In_button">로그인</string>
+
+	<string name="More_View_Themes">테마</string>
+	<string name="No_People_Added_List">목록에 추가된 사람이 없습니다</string>
+	<string name="Trend">유행</string>
+	<string name="More_View_Trends">유행</string>
+	<string name="Tweet_favorited_Successfully">성공적으로 좋아요가 설정되었습니다</string>
+	<string name="Tweet_Unfavorited_Successfully">성공적으로 좋아요가 취소되었습니다</string>
+	<string name="More_View_User_Detail_First_Option">트윗들</string>
+	<string name="Twitter_Logout">트위터 로그아웃</string>
+	<string name="Twitter_Web_View_Title">트위터 웹으로 보기</string>
+	
+	<string name="Unable_Post_Data">트위터에 게시할 수 없습니다</string>
+	<string name="User_UnBlock">차단해제</string>
+	<string name="Unblock_Friend">차단해제</string>
+	<string name="UnBlocked">차단되었습니다</string>
+	<string name="Undo_Retweet_Success">성공적으로 리트윗이 취소되었습니다</string>
+	<string name="User_UnFollow">팔로우 취소</string>
+	<string name="Update_List_Title">리스트 업데이트</string>
+	<string name="User_Added">사용자 추가</string>
+	<string name="User_added_successful">리스트에 사용자가 추가되었습니다</string>
+	<string name="More_View_Down_User_Detail">사용자 정보</string>
+	<string name="No_Tweets_Yet">아직 트윗이 없습니다</string>
+	<string name="Login_Page_User_Id">사용자 아이디</string>
+
+	<string name="Worldwide_Str">세계적인</string>
+
+	<string name="Yes_String">예</string>
+	<string name="No_Mentioned_Tweets">관련된 멘션이 없습니다</string>
+	<string name="Not_Having_Tweets_Message">관련된 트윗이 없습니다</string>
+	<string name="Send_DirectMessage">당신을 팔로잉하지 않은 상대에게는 메시지를 보낼 수 없습니다</string>
+	<string name="Dont_Have_Followers_List">팔로워 리스트가 없습니다</string>
+	<string name="Dont_Have_Following_List">팔로잉 리스트가 없습니다</string>
+	<string name="NO_List">리스트가 없습니다</string>
+	<string name="List">리스트</string>
+	<string name="More_View_Retweet_Third_Option">리트윗된 트윗</string>
+	<string name="Server_Err_Try_Again">서버 에러, 다시 시도해주세요 </string>
+	<string name="Unable_Fetch_Data">트위터에서 데이터를 가져올 수 없습니다</string>
+	<string name="Character_limit">문자 제한을 넘겼습니다 </string>
+
+	<string name="Check_internetconnection">인터넷 연결을 확인하십시오 / 잠시 후에 다시 시도해 주십시오</string>
+	<string name="Compose_Tweet_Title">트윗쓰기</string>
+	<string name="Create_List_List_Name">리스트 만들기</string>
+	<string name="Create_OntherList">다른 목록을 만들겠습니까?</string>
+	<string name="Enter_ListName">목록명을 입력해주세요</string>
+	<string name="List_Created_Success">목록이 성공적으로 만들어졌습니다</string>
+	<string name="List_Limit">만들 수 있는 목록은 최대 20개입니다</string>
+	<string name="List_Modified">목록이 성공적으로 수정되었습니다</string>
+	<string name="ListName_Exits">이미 존재하는 목록입니다, 다른 이름을 선택하십시오</string>
+	<string name="No_DirectMessage">메시지가 없습니다</string>
+	<string name="No_MoreCharacter">더 이상 입력할 수 없습니다</string>
+	<string name="No_MoreListAva">목록이 더 이상 없습니다</string>
+	<string name="Older_Tweets_Not_Available">이전 트윗이 없습니다</string>
+
+	<string name="People_Search_View_Title">X의 검색 결과</string>
+	<string name="Profile_List">프로필 목록</string>
+	<string name="Reply_Tweet_Title">회신</string>
+	<string name="Saved_Search_Show_Title">저장된 검색을 보다 자세히</string>
+	<string name="Themes_View_Camera_Button">카메라</string>
+	<string name="Trends_Choose_Loc_Title">지역 설정</string>
+	<string name="Tweet_Data">트윗 데이터</string>
+	<string name="Tweet_Delete_Success">트윗이 성공적으로 삭제되었습니다</string>
+	<string name="Twitter_Servererror">트위터 서버 에러</string>
+	<string name="List_Follow_By">X가 팔로우한 목록</string>
+	<string name="List_Following_By">X가 추가한 목록</string>
+
+	<string name="Message_By">X의 메시지 </string>
+	<string name="Media_ActionSheet_Title">열려있음</string>
+	<string name="WebView_Str">웹으로 보기</string>
+	<string name="Natvieview_Str">어플로 보기</string>
+	<string name="Select_To_Upload">업로드 선택</string>
+	<string name="Photo_Str">사진</string>
+	<string name="Video_Str">비디오</string>
+	<string name="Select_a_Video_From_Str">비디오로 부터 선택</string>
+	<string name="Select_a_Video_Str">비디오 선택</string>
+	<string name="Video_Album_Str">비디오 앨범</string>
+	<string name="Select_a_Photo_From_Str">사진으로 부터 선택</string>
+	<string name="Select_a_Photo_Str">서진 선택</string>
+	<string name="Photo_Album_Str">사진 앨범</string>
+	
+	<string name="Unfavorited_Str">좋지 않아요</string>
+	<string name="Undo_RetweetStr">리트윗 취소</string>
+	<string name="Link_Str">링크와 함께 트윗</string>
+	<string name="File_Not_Found">파일이 존재하지 않습니다</string>
+	<string name="Image_show_title">프로필 사진</string>
+	<string name="Region_not_avialble_Str">지정된 지역에는 트렌드 데이터가 없습니다. 다른 지역을 선택하십시오</string>
+	<string name="Download_and_Apply_String">다운로드 후 적용</string>
+	<string name="Downloads_Str">다운로드 / 내려받기</string>
+	<string name="Popularity_Str">인기</string>
+	<string name="Preview_Str">미리보기</string>
+	<string name="You_havent_saved_any_searches_yet_Str">저장된 검색이 없습니다</string>
+	<string name="You_havent_any_mention_tweets_Str">관련 트윗이 없습니다</string>
+	<string name="Last_Updated">마지막 갱신</string>
+	<string name="User_SendDM">다이렉트 메시지 보내기</string>
+	<string name="DM_View_First_Option">회신</string>
+
+	<string name="DM_View_Second_Option">수신</string>
+	<string name="DM_View_Third_Option">발신</string>
+	<string name="List_View_Options_First">당신의 리스트</string>
+	<string name="User_List">리스트</string>
+	<string name="Retweet_By_Other_Title">다른 사용자의 리트윗</string>
+	<string name="Tweet_Fav_Success">트윗 즐겨찾기로 설정되었습니다</string>
+	<string name="Tweet_UnFav_Success">트윗의 즐겨찾기를 해제했습니다</string>
+	<string name="Image_Save_Alert_Message">이미지가 성공적으로 라이브러리에 저장되었습니다</string>
+	<string name="Release_To_Refresh">손가락을 떼면 업데이트됩니다</string>
+	<string name="Pull_Down_To_Refresh">아래로 내리면 업데이트됩니다</string>
+	<string name="Conversation_Str">대화</string>
+	<string name="Apply_Str">적용</string>
+
+	<string name="You_havent_retweeted_anything_yet_Str">리트윗이 없습니다</string>
+	<string name="You_havent_been_retweeted_yet_Str">리트윗되지 않습니다</string>
+	<string name="You_havent_Favorites_anything_yet_Str">즐겨찾기가 없습니다</string>
+	<string name="More_View_Favorite">즐겨찾기</string>
+	<string name="More_View_Retweet">리트윗</string>
+	<string name="More_View_Up_User_Detail">사용자 정보</string>
+	<string name="Retweet_Success">성공적으로 리트윗되었습니다</string>
+	<string name="Trends_View_Location_Button">지역</string>
+	<string name="User_AddToList">리스트 만들기</string>
+	<string name="Uploading_str">업로드  중 / 올리기 중</string>
+	<string name="Image_Save_Str">이미지 저장</string>
+	<string name="Login_Page_Str">로그인 페이지</string>
+	<string name="Reply_View_Str">리플라이 보기</string>
+
+	<string name="Take_Photo">사진찍기</string>
+	<string name="From_Library">라이브러리로 부터</string>
+	<string name="Use_Photo">사진사용</string>
+	<string name="Return_to_Default">초기값으로 돌아감</string>
+	<string name="You_are_not_following_anyone_yet">아직 아무도 팔로잉하고 있지 않습니다</string>
+	
+	<string name="Leopard">레오파드</string>
+	<string name="Vivid">생생한</string>
+	<string name="Flower">플라워</string>
+	<string name="Preview">미리보기</string>
+	
+	<string name="Refresh">새로고침</string>
+	<string name="Compose">새로운 트윗</string>
+	
+	<string name="Use_Image_bg">이미지를 배경으로 사용하기</string>
+	<string name="Select">선택</string>
+	<string name="Use_Image">이미지 사용</string>
+	
+	<string name="Use_Theme_Image">배경 테마 사용하기</string>
+	<string name="Want_Background_Image">배경을 설정하시겠습니까?</string>
+	<string name="Theme">테마</string>
+	<string name="Theme_Photo">포토</string>
+	
+	<string name="Download_Theme">테마 다운로드</string>
+	<string name="Apply_Theme">Applying theme…</string>
+		
+</resources>
